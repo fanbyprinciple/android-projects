@@ -8,3 +8,5 @@ Looking for a good book.
 
 https://www.youtube.com/watch?v=HQ_ytw58tC4
 
+baby steps.
+
