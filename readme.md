@@ -8,5 +8,12 @@ Looking for a good book.
 
 https://www.youtube.com/watch?v=HQ_ytw58tC4
 
-baby steps.
+baby steps. II 25 min in.
+
+# 10-03-24
+
+![](2024-03-10-03-30-21.png)
+
+
+
 
