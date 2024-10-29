@@ -28,6 +28,10 @@ npx react-native doctor comes in handy
 
 also if emulator is not working pe data feature helps.
 
+# 30-10-24
 
+Hello World!
+
+![](2024-10-30-00-14-40.png)
 
 
