@@ -18,6 +18,13 @@ baby steps. II 25 min in.
 
 ![](2024-03-10-17-41-09.png)
 
+# 29-10-24
+
+Struggling with react native setup
+
+npx react-native doctor comes in handy
+
+![](2024-10-29-06-57-52.png)
 
 
 
