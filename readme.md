@@ -26,5 +26,8 @@ npx react-native doctor comes in handy
 
 ![](2024-10-29-06-57-52.png)
 
+also if emulator is not working pe data feature helps.
+
+
 
 
