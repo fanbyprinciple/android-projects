@@ -34,4 +34,23 @@ Hello World!
 
 ![](2024-10-30-00-14-40.png)
 
+next up : https://www.youtube.com/watch?v=NQi1CdGo6dU&t=742s
+
+but a short stop
+creating a react portfolio website
+
+# 31-10-24
+
+creating app with React + Vite
+
+
+> npm  create vite@latest nike -- --templare react
+
+> npm install -D tailwindcss postcss autoprefixer
+
+> npx tailwindcss init -p
+
+> npm run dev
+
+
 
